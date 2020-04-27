@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<embrace>
+	<employees>
+		<name>Marshall</name>
+		<surname>Mathers</surname>
+	</employees>
+	<works>
+		<wrongCode><img "abc.jpg" alt="abc.com" width="104" height="142"></wrongCode>
+		<correctCode><img src="abc.jpg" alt="abc.com" width="104" height="142"></correctCode>
+	</works>
+</embrace>
